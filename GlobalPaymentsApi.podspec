@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "GlobalPaymentsApi"
-  s.version      = "1.0.2"
+  s.version      = "1.0.3"
   s.summary      = "Mobile Device Framework"
   s.description  = <<-DESC
   Mobile Device Framework used to integrate EMV readers in applications
